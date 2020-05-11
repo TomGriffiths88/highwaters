@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/highwaters/static/css/main.c592393b.chunk.css",
+    "main.js": "/highwaters/static/js/main.9212082c.chunk.js",
+    "main.js.map": "/highwaters/static/js/main.9212082c.chunk.js.map",
+    "runtime-main.js": "/highwaters/static/js/runtime-main.ec775dad.js",
+    "runtime-main.js.map": "/highwaters/static/js/runtime-main.ec775dad.js.map",
+    "static/js/2.c113b9cc.chunk.js": "/highwaters/static/js/2.c113b9cc.chunk.js",
+    "static/js/2.c113b9cc.chunk.js.map": "/highwaters/static/js/2.c113b9cc.chunk.js.map",
+    "index.html": "/highwaters/index.html",
+    "precache-manifest.0a5af60bb9563504158e02e1c7ebe927.js": "/highwaters/precache-manifest.0a5af60bb9563504158e02e1c7ebe927.js",
+    "service-worker.js": "/highwaters/service-worker.js",
+    "static/css/main.c592393b.chunk.css.map": "/highwaters/static/css/main.c592393b.chunk.css.map",
+    "static/js/2.c113b9cc.chunk.js.LICENSE.txt": "/highwaters/static/js/2.c113b9cc.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/highwaters/static/media/arrow.ea73b3d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec775dad.js",
+    "static/js/2.c113b9cc.chunk.js",
+    "static/css/main.c592393b.chunk.css",
+    "static/js/main.9212082c.chunk.js"
+  ]
+}
