@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f4fbf04442f2a8ba6688f4ed2654af1",
+    "revision": "97dd645ea2d045c7bd2200777cc6f5e0",
     "url": "/highwaters/index.html"
   },
   {
-    "revision": "ba01df8b2b5ed8f13d64",
-    "url": "/highwaters/static/css/main.2e6ceedc.chunk.css"
+    "revision": "050765ca93429e92cac2",
+    "url": "/highwaters/static/css/main.6ea396fc.chunk.css"
   },
   {
     "revision": "e6616940c90f12430741",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/highwaters/static/js/2.c113b9cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba01df8b2b5ed8f13d64",
-    "url": "/highwaters/static/js/main.4ab103c0.chunk.js"
+    "revision": "050765ca93429e92cac2",
+    "url": "/highwaters/static/js/main.80a2070a.chunk.js"
   },
   {
     "revision": "de2059876039fe4641ee",
